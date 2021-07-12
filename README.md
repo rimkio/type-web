@@ -1,1 +1,1 @@
-# type-web
+# typo-web
